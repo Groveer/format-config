@@ -28,3 +28,4 @@ AllowShortIfStatementsOnASingleLine: false
 BinPackArguments: false
 # false表示所有形参要么都在同一行，要么都各自一行
 BinPackParameters: false
+IncludeBlocks: Preserve
